@@ -4,8 +4,8 @@ En este proyceto  queríamos saber el numero de ordes y cantidad de producción 
 
 - [x] Recogida de datos
 - [x] Limpieza de datos
-- [ ] Preparación de datos
-- [ ] Boceto de la estructura de los cuadros de mandos
-- [ ] Diseño final del dashboar
+- [x] Preparación de datos
+- [x] Boceto de la estructura de los cuadros de mandos
+- [x] Diseño final del dashboar
 
 No olvidemos que nuestro cuadro de mandos tiene que contar una historia através de los datos. Este dashboar final, tiene que ser legible, y transmitir el mesaje que necesita la empresa para tomar las mejores decisiones.
